@@ -6,7 +6,33 @@
    vertical-align: baseline;
 
 
+
 }
+.resolution{
+    width: 99%;
+    text-align: center;
+
+}
+@media (max-width: 767px){
+    .desktop{display: none;}
+    .tablet{display: none;}
+    .movil{display: none;}
+
+}
+@media (max-width: 768px) and (max-width: 990px){
+
+    .desktop{display: none;}
+    .tablet{display: none;}
+    .movil{display: none;}
+
+}
+@media (max-width: 991px){
+    
+    .desktop{display: none;}
+    .tablet{display: none;}
+    .movil{display: none;}
+}
+
 body{
     text-align: center;
     font-family: sans-serif;
