@@ -261,3 +261,7 @@ header{
 .registrar p a:hover{
     text-decoration: underline;
 }
+
+@media(max-width: 991px){
+    
+}

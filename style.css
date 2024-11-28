@@ -10,6 +10,10 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 
@@ -19,13 +23,14 @@ body{
 
 }
 .header{
-    background-image: url(img/flor.jpg);
-    background-position: center bottom;
+    background-image: url(img/carp1/img31.png);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 70vh;
+    min-height: 80vh;
     align-items: center;
     display: flex;
+
 
 }
 
@@ -147,7 +152,7 @@ body{
 }
 
 .general-4{
-    background-image: url(img/pen.jpg);
+    background-image: url(img/carp2/shen1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -157,8 +162,9 @@ body{
 
 }
 
+
 .general-5{
-    background-image: url(img/pen.jpg);
+    background-image: url(img/img2.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -167,7 +173,7 @@ body{
 
 }
 .general-6{
-    background-image: url(img/pen.jpg);
+    background-image: url(img/yai2.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -194,13 +200,13 @@ h2{
 
 }
 .txt p{
-    color: #fff;
+    color: #090f1d;
     font-size: 16px;
 }
 
 .info-1{
     padding: 250px 0;
-    background-image: url(img/koala.jpg);
+    background-image: url(img/koa.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -211,7 +217,7 @@ h2{
 }
 
 .info-content h2, span{
-    color: aqua;
+    color: #fff;
 }
 
 .info-circle{
